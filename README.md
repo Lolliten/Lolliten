@@ -4,6 +4,6 @@
   
 - 🌱 I’m currently exploring React and Nodejs in various projects!
 
-- 🌱 Schooled in: HTML, CSS, JavaScript, TypeScript, PHP, Laravel, Angular, different databases
+- 🌱 Schooled in: HTML, CSS, JavaScript, TypeScript, PHP, React, Laravel, Angular, Nodejs, Docker, Git and different databases
 
 - 📫 You can reach me on mail: louise.blanc@yahoo.se
