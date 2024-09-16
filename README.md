@@ -2,7 +2,7 @@
   
 - 👀 I’m into programming and expand my knowledge 
   
-- 🌱 I’m currently learning React and Nodejs!
+- 🌱 I’m currently exploring React and Nodejs in various projects!
 
 - 🌱 Schooled in: HTML, CSS, JavaScript, TypeScript, PHP, Laravel, Angular, different databases
 
