@@ -2,8 +2,8 @@
   
 - 👀 I’m into programming and expand my knowledge 
   
-- 🌱 I’m currently exploring React and Nodejs in various fullstack projects!
+- 🌱 I’m currently exploring Elixir & Phoenix, and Im superexcited about it!
 
-- 🌱 Schooled in: HTML, CSS, JavaScript, TypeScript, PHP, React, Laravel, Angular, Nodejs, Docker, Git and different databases
+- 🌱 Schooled in: HTML, CSS, Elixir, Phoenix, JavaScript, TypeScript, PHP, React, Laravel, Angular, Nodejs, Docker, Git and different databases
 
 - 📫 You can reach me on mail: louise.blanc@yahoo.se
