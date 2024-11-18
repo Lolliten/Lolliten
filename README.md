@@ -2,7 +2,7 @@
   
 - 👀 I’m into programming and expand my knowledge 
   
-- 🌱 I’m currently exploring Elixir & Phoenix, and of course AI!
+- 🌱 I’m currently exploring Elixir, and the world of AI.
 
 - 🌱 Schooled in: HTML, CSS, Elixir, Phoenix, JavaScript, TypeScript, PHP, React, Laravel, Angular, Nodejs, Docker, Git and different databases
 
