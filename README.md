@@ -1,5 +1,5 @@
 ## class SoftwareEngineer {
- private:
+ ``` private:
     string specialization = "Fullstack Development & AI Exploration";
     vector<string> core_skills = { <br>
        - "Elixir",
@@ -16,7 +16,7 @@
        - "GIT",
        - "SQL",
        - "NoSQL"
-    };
+    }; ```
     
  public:
     void getExpertise() {
@@ -43,4 +43,4 @@
     }
     
     string getContact() {
-        return "You can reach me on mail: louise.blanc@yahoo.se"
+        return "Reach me on mail: louise.blanc@yahoo.se"
