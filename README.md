@@ -4,6 +4,6 @@
   
 - 🌱 I’m currently exploring Elixir, and the world of AI.
 
-- 🌱 Schooled in: HTML, CSS, JavaScript, TypeScript, PHP, React, Laravel, Angular, Nodejs, Docker, Git and different databases
+- 🌱 Schooled in: Elixir, JavaScript, TypeScript, PHP, React, Laravel, Angular, Nodejs, HTML, CSS, Docker, GIT, SQL and NoSQL.
 
 - 📫 You can reach me on mail: louise.blanc@yahoo.se
