@@ -1,5 +1,5 @@
-### class SoftwareEngineer { <br>
-### private:
+## class SoftwareEngineer {
+ private:
     string specialization = "Fullstack Development & AI Exploration";
     vector<string> core_skills = { <br>
        - "Elixir",
@@ -18,7 +18,7 @@
        - "NoSQL"
     };
     
-### public:
+ public:
     void getExpertise() {
         cout << " I’m Lolo and I'm on the fullstack journey, currently, a 6 month internship at Qsimbo, deep-diving in Elixir ♥" << endl;
         cout << " Programming and adventures." << endl;
@@ -42,5 +42,5 @@
         };
     }
     
-   ### string getContact() {
+    string getContact() {
         return "You can reach me on mail: louise.blanc@yahoo.se"
