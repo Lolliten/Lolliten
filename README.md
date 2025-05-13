@@ -17,9 +17,9 @@
     
  public:
     void getExpertise() {
-        cout << " I’m Lolo and I'm on the fullstack journey, currently, a 6 month internship at Qsimbo, deep-diving in Elixir ♥" << endl;
+        cout << " I’m Lolo and I'm on the fullstack journey, currently, deep-diving in Elixir ♥" << endl;
         cout << " Programming and adventures." << endl;
-        cout << " Currently, exploring Phoenix, and the world of AI." << endl;
+        cout << " Now exploring LiveView, and the world of AI." << endl;
     }
     
     vector<string> getTechnicalProjects() {
