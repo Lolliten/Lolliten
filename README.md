@@ -1,6 +1,6 @@
 defmodule Lolo.About do
   @moduledoc """
-  A module to represent Lolo's professional profile in Elixir.
+  A module to represent Lolo.
   """
 
   def specialization, do: "Fullstack Development & AI Exploration"
@@ -32,7 +32,7 @@ defmodule Lolo.Profile do
   end
 
   def intro, do: "I’m Lolo and I'm on the fullstack journey, currently, deep-diving in Elixir ♥"
-  def current_focus, do: "Now exploring LiveView, and the world of AI."
+  def current_focus, do: "Now exploring LiveView and Ash, and the world of AI."
   def technical_projects, do: [
     "Elixir Projects",
     "JavaScript Applications",
