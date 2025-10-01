@@ -1,5 +1,7 @@
 defmodule Lolo.About do
+
   @moduledoc """
+
   A module to represent Lolo.
   """
 
