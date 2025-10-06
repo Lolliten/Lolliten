@@ -1,36 +1,22 @@
 defmodule Lolo.About do
-
   @moduledoc """
-  
   A module to represent Lolo.
   """
 
   def specialization, do: 
-  
   "Fullstack Development & AI Exploration"
-
   def core_skills, do: [
   
     "Elixir",
-  
     "JavaScript",
-    
     "TypeScript",
-    
     "React",
-    
     "Nodejs",
-    
     "HTML",
-    
     "CSS",
-    
     "Docker",
-    
     "GIT",
-    
     "SQL",
-    
     "NoSQL"
   ]
   
