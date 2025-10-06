@@ -1,10 +1,14 @@
 defmodule Lolo.About do
+  
   @moduledoc """
+  
   A module to represent Lolo.
   """
 
   def specialization, do: 
+  
   "Fullstack Development & AI Exploration"
+  
   def core_skills, do: [
   
     "Elixir",
@@ -44,23 +48,14 @@ defmodule Lolo.Profile do
   def technical_projects, do: [
   
     "Elixir Projects",
-    
     "JavaScript Applications",
-    
     "TypeScript Implementations",
-    
     "React Frontends",
-    
     "Nodejs Services",
-    
     "HTML & CSS Designs",
-    
     "Dockerized Environments",
-    
     "Version Control with GIT",
-    
     "SQL & NoSQL Databases"
-
   ]
 
 end
