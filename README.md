@@ -1,62 +1,28 @@
-defmodule Lolo.About do
-  
-  @moduledoc """
-  
-  A module to represent Lolo.
-  """
+# Hey, I'm Lolo 👋
 
-  def specialization, do: 
-  
-  "Fullstack Development & AI Exploration"
-  
-  def core_skills, do: [
-  
-    "Elixir",
-    "JavaScript",
-    "TypeScript",
-    "React",
-    "Nodejs",
-    "HTML",
-    "CSS",
-    "Docker",
-    "GIT",
-    "SQL",
-    "NoSQL"
-  ]
-  
+Fullstack Developer • Elixir Enthusiast • AI Explorer
+
+![coding](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
+
+---
+
+## 🧠 About Me
+
+```elixir
+defmodule Lolo do
+  def focus, do: ["Elixir", "LiveView", "Ash", "AI", "Databases"]
+  def vibe, do: "Build fast. Ship weird ideas. Learn constantly."
 end
+```
 
-defmodule Lolo.Profile do
+---
 
-  use Ash.Resource, 
-  
-    data_layer: Ash.DataLayer.Ets,
-    domain: Lolo.Domain
+## 🛠 Tech Stack
 
-  attributes do
-  
-    attribute :intro, :string
-    attribute :current_focus, :string
-    attribute :technical_projects, {:array, :string}
-    
-  end
-
-  def intro, do: "I’m Lolo and I'm on the fullstack journey, currently, deep-diving in Elixir ♥"
-  
-  def current_focus, do: "Now exploring LiveView and Ash, and the world of AI."
-  
-  def technical_projects, do: [
-  
-    "Elixir Projects",
-    "JavaScript Applications",
-    "TypeScript Implementations",
-    "React Frontends",
-    "Nodejs Services",
-    "HTML & CSS Designs",
-    "Dockerized Environments",
-    "Version Control with GIT",
-    "SQL & NoSQL Databases"
-  ]
-
-end
+![Elixir](https://img.shields.io/badge/-Elixir-4B275F?style=for-the-badge&logo=elixir)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
