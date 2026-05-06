@@ -10,7 +10,7 @@ Fullstack Developer • Elixir Enthusiast • AI Explorer
 
 ```elixir
 defmodule Lolo do
-  def focus, do: ["Elixir", "LiveView", "Ash", "AI", "Databases"]
+  def focus, do: ["Functional Programming", "AI", "Databases"]
   def vibe, do: "Build fast. Ship weird ideas. Learn constantly."
 end
 ```
