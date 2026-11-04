@@ -11,7 +11,7 @@ Fullstack Developer • Elixir Enthusiast • AI Explorer
 ```elixir
 defmodule Lolo do
   def focus, do: ["Functional Programming", "AI", "Databases"]
-  def vibe, do: "Build fast. Ship weird ideas. Learn constantly."
+  def vibe, do: "Build fast. Be weird. Learn constantly."
 end
 ```
 
@@ -24,5 +24,6 @@ end
 ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Nerves](https://img.shields.io/badge/-Nerves-1E3A5F?style=for-the-badge)
+
 
